@@ -13,3 +13,5 @@ def unique_in_order(iterable):
             result.append(char)
             prev = char
     return result
+
+unique_in_order('AAAABBBCCDAABBB')
