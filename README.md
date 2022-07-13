@@ -1,4 +1,4 @@
-# project1
+# Codewars answers
 
 This repository is for self-use. 
 
